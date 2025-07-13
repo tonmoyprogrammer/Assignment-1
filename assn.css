@@ -295,11 +295,18 @@ footer input[type="text"],footer input[type="email"],footer textarea
     
 }
 /* last-part */
+
 .last-part
 {
     max-width: 531px;
-    margin:104px auto;
+   margin:104px auto;
     text-align: center;
+}
+.last-div-logo
+{
+    color:#4E47FF;
+    font-size:100px;
+    font-weight: bold;
 }
 .last-part nav ul{
     display: flex;
