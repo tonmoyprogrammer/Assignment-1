@@ -2,3 +2,11 @@
 {
     background-image: url("B12A01-landing-launchpad/Assets/Hero-bg.png");
 }
+.bg-color
+{
+    background-color:rgba(245, 248, 255, 1);
+}
+.big
+{
+    color:rgba(78, 71, 255, 1);
+}
